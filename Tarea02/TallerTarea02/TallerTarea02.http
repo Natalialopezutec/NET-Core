@@ -1,0 +1,6 @@
+@_TallerTarea02_HostAddress = http://localhost:5264
+
+GET {{TallerTarea02_HostAddress}}/api/tareas/
+Accept: application/json
+
+###
