@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EImqTm0hlEA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natil\\Documents\\GitHub\\NET-Core\\Taller02B\\Taller02B\\TallerTarea02B.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natil\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\natil\\.nuget\\packages\\system.drawing.common\\8.0.8\\system.drawing.common.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
