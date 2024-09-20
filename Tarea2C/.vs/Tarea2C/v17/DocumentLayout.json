@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natil\\Documents\\GitHub\\NET-Core\\Tarea2C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B98443A-B603-4055-8A31-9DCF731DC606}|Tarea2C\\Tarea2C.csproj|c:\\users\\natil\\documents\\github\\net-core\\tarea2c\\tarea2c\\views\\libro\\ver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B98443A-B603-4055-8A31-9DCF731DC606}|Tarea2C\\Tarea2C.csproj|solutionrelative:tarea2c\\views\\libro\\ver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B98443A-B603-4055-8A31-9DCF731DC606}|Tarea2C\\Tarea2C.csproj|c:\\users\\natil\\documents\\github\\net-core\\tarea2c\\tarea2c\\views\\libro\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B98443A-B603-4055-8A31-9DCF731DC606}|Tarea2C\\Tarea2C.csproj|solutionrelative:tarea2c\\views\\libro\\listar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B98443A-B603-4055-8A31-9DCF731DC606}|Tarea2C\\Tarea2C.csproj|c:\\users\\natil\\documents\\github\\net-core\\tarea2c\\tarea2c\\views\\libro\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B98443A-B603-4055-8A31-9DCF731DC606}|Tarea2C\\Tarea2C.csproj|solutionrelative:tarea2c\\views\\libro\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B98443A-B603-4055-8A31-9DCF731DC606}|Tarea2C\\Tarea2C.csproj|c:\\users\\natil\\documents\\github\\net-core\\tarea2c\\tarea2c\\views\\libro\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9B98443A-B603-4055-8A31-9DCF731DC606}|Tarea2C\\Tarea2C.csproj|solutionrelative:tarea2c\\views\\libro\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DF93CF-93E6-4A9E-B806-223395657CBA}|..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\01_3_webAppEjemplo.csproj|c:\\users\\natil\\source\\repos\\tallernet\\01_3_webappejemplo\\01_2_webappejemplo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DF93CF-93E6-4A9E-B806-223395657CBA}|..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\01_3_webAppEjemplo.csproj|c:\\users\\natil\\source\\repos\\tallernet\\01_3_webappejemplo\\01_2_webappejemplo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DF93CF-93E6-4A9E-B806-223395657CBA}|..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\01_3_webAppEjemplo.csproj|c:\\users\\natil\\source\\repos\\tallernet\\01_3_webappejemplo\\01_2_webappejemplo\\views\\vehiculo\\viewvehiculo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DF93CF-93E6-4A9E-B806-223395657CBA}|..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\01_3_webAppEjemplo.csproj|c:\\users\\natil\\source\\repos\\tallernet\\01_3_webappejemplo\\01_2_webappejemplo\\views\\vehiculo\\ver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DF93CF-93E6-4A9E-B806-223395657CBA}|..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\01_3_webAppEjemplo.csproj|c:\\users\\natil\\source\\repos\\tallernet\\01_3_webappejemplo\\01_2_webappejemplo\\views\\vehiculo\\grillavehiculo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DF93CF-93E6-4A9E-B806-223395657CBA}|..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\01_3_webAppEjemplo.csproj|c:\\users\\natil\\source\\repos\\tallernet\\01_3_webappejemplo\\01_2_webappejemplo\\views\\vehiculo\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DF93CF-93E6-4A9E-B806-223395657CBA}|..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\01_3_webAppEjemplo.csproj|c:\\users\\natil\\source\\repos\\tallernet\\01_3_webappejemplo\\01_2_webappejemplo\\views\\vehiculo\\borrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B98443A-B603-4055-8A31-9DCF731DC606}|Tarea2C\\Tarea2C.csproj|c:\\users\\natil\\documents\\github\\net-core\\tarea2c\\tarea2c\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B98443A-B603-4055-8A31-9DCF731DC606}|Tarea2C\\Tarea2C.csproj|solutionrelative:tarea2c\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B98443A-B603-4055-8A31-9DCF731DC606}|Tarea2C\\Tarea2C.csproj|c:\\users\\natil\\documents\\github\\net-core\\tarea2c\\tarea2c\\tarea2c.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B98443A-B603-4055-8A31-9DCF731DC606}|Tarea2C\\Tarea2C.csproj|solutionrelative:tarea2c\\tarea2c.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DF93CF-93E6-4A9E-B806-223395657CBA}|..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\01_3_webAppEjemplo.csproj|c:\\users\\natil\\source\\repos\\tallernet\\01_3_webappejemplo\\01_2_webappejemplo\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DF93CF-93E6-4A9E-B806-223395657CBA}|..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\01_3_webAppEjemplo.csproj|c:\\users\\natil\\source\\repos\\tallernet\\01_3_webappejemplo\\01_2_webappejemplo\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8DF93CF-93E6-4A9E-B806-223395657CBA}|..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\01_3_webAppEjemplo.csproj|c:\\users\\natil\\source\\repos\\tallernet\\01_3_webappejemplo\\01_2_webappejemplo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 622,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T21:08:24.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Borrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\natil\\Documents\\GitHub\\NET-Core\\Tarea2C\\Tarea2C\\Views\\Libro\\Borrar.cshtml",
+              "RelativeDocumentMoniker": "Tarea2C\\Views\\Libro\\Borrar.cshtml",
+              "ToolTip": "C:\\Users\\natil\\Documents\\GitHub\\NET-Core\\Tarea2C\\Tarea2C\\Views\\Libro\\Borrar.cshtml",
+              "RelativeToolTip": "Tarea2C\\Views\\Libro\\Borrar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T21:05:45.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\natil\\Documents\\GitHub\\NET-Core\\Tarea2C\\Tarea2C\\Views\\Libro\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Tarea2C\\Views\\Libro\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\natil\\Documents\\GitHub\\NET-Core\\Tarea2C\\Tarea2C\\Views\\Libro\\Crear.cshtml",
+              "RelativeToolTip": "Tarea2C\\Views\\Libro\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T21:06:03.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Listar.cshtml",
+              "DocumentMoniker": "C:\\Users\\natil\\Documents\\GitHub\\NET-Core\\Tarea2C\\Tarea2C\\Views\\Libro\\Listar.cshtml",
+              "RelativeDocumentMoniker": "Tarea2C\\Views\\Libro\\Listar.cshtml",
+              "ToolTip": "C:\\Users\\natil\\Documents\\GitHub\\NET-Core\\Tarea2C\\Tarea2C\\Views\\Libro\\Listar.cshtml",
+              "RelativeToolTip": "Tarea2C\\Views\\Libro\\Listar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T21:06:16.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ver.cshtml",
+              "DocumentMoniker": "C:\\Users\\natil\\Documents\\GitHub\\NET-Core\\Tarea2C\\Tarea2C\\Views\\Libro\\Ver.cshtml",
+              "RelativeDocumentMoniker": "Tarea2C\\Views\\Libro\\Ver.cshtml",
+              "ToolTip": "C:\\Users\\natil\\Documents\\GitHub\\NET-Core\\Tarea2C\\Tarea2C\\Views\\Libro\\Ver.cshtml",
+              "RelativeToolTip": "Tarea2C\\Views\\Libro\\Ver.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T21:06:38.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T21:08:21.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewVehiculo.cshtml",
+              "DocumentMoniker": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\ViewVehiculo.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\ViewVehiculo.cshtml",
+              "ToolTip": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\ViewVehiculo.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\ViewVehiculo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T21:08:19.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ver.cshtml",
+              "DocumentMoniker": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\Ver.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\Ver.cshtml",
+              "ToolTip": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\Ver.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\Ver.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T21:08:16.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GrillaVehiculo.cshtml",
+              "DocumentMoniker": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\GrillaVehiculo.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\GrillaVehiculo.cshtml",
+              "ToolTip": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\GrillaVehiculo.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\GrillaVehiculo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T21:08:10.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\Crear.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\Crear.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T21:08:09.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Borrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\Borrar.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\Borrar.cshtml",
+              "ToolTip": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\Borrar.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Views\\Vehiculo\\Borrar.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T21:08:03.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tarea2C",
+              "DocumentMoniker": "C:\\Users\\natil\\Documents\\GitHub\\NET-Core\\Tarea2C\\Tarea2C\\Tarea2C.csproj",
+              "RelativeDocumentMoniker": "Tarea2C\\Tarea2C.csproj",
+              "ToolTip": "C:\\Users\\natil\\Documents\\GitHub\\NET-Core\\Tarea2C\\Tarea2C\\Tarea2C.csproj",
+              "RelativeToolTip": "Tarea2C\\Tarea2C.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T21:01:07.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Users\\natil\\Documents\\GitHub\\NET-Core\\Tarea2C\\Tarea2C\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "Tarea2C\\Controllers\\LibroController.cs",
+              "ToolTip": "C:\\Users\\natil\\Documents\\GitHub\\NET-Core\\Tarea2C\\Tarea2C\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "Tarea2C\\Controllers\\LibroController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:03:22.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:59:05.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VehiculoController.cs",
+              "DocumentMoniker": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Controllers\\VehiculoController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Controllers\\VehiculoController.cs",
+              "ToolTip": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Controllers\\VehiculoController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Controllers\\VehiculoController.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:58:31.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\natil\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\TallerNET\\01_3_webAppEjemplo\\01_2_webAppEjemplo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:58:15.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
