@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natil\\source\\repos\\Tarea4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB66D29F-9CFE-43EC-8583-8D86DF3CB8A6}|Tarea4\\Tarea4.csproj|c:\\users\\natil\\source\\repos\\tarea4\\tarea4\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB66D29F-9CFE-43EC-8583-8D86DF3CB8A6}|Tarea4\\Tarea4.csproj|solutionrelative:tarea4\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB66D29F-9CFE-43EC-8583-8D86DF3CB8A6}|Tarea4\\Tarea4.csproj|c:\\users\\natil\\source\\repos\\tarea4\\tarea4\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB66D29F-9CFE-43EC-8583-8D86DF3CB8A6}|Tarea4\\Tarea4.csproj|solutionrelative:tarea4\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\natil\\source\\repos\\Tarea4\\Tarea4\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Tarea4\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\natil\\source\\repos\\Tarea4\\Tarea4\\Pages\\Counter.razor",
+              "RelativeToolTip": "Tarea4\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T07:25:40.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\natil\\source\\repos\\Tarea4\\Tarea4\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Tarea4\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\natil\\source\\repos\\Tarea4\\Tarea4\\wwwroot\\index.html",
+              "RelativeToolTip": "Tarea4\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-20T07:25:22.645Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\natil\\source\\repos\\Tarea4\\Tarea4\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\natil\\source\\repos\\Tarea4\\Tarea4\\obj\\Debug\\net8.0\\compressed\\b88buj2vtv.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\natil\\source\\repos\\Tarea4\\Tarea4\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Tarea4.styles.css",
+      "PackagePath": "staticwebassets\\Tarea4.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\natil\\source\\repos\\Tarea4\\Tarea4\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\natil\\source\\repos\\Tarea4\\Tarea4\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\natil\\source\\repos\\Tarea4\\Tarea4\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\natil\\source\\repos\\Tarea4\\Tarea4\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\natil\\source\\repos\\Tarea4\\Tarea4\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\natil\\source\\repos\\Tarea4\\Tarea4\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\natil\\source\\repos\\Tarea4\\Tarea4\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Tarea4.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Tarea4.props",
+      "PackagePath": "build\\Tarea4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Tarea4.props",
+      "PackagePath": "buildMultiTargeting\\Tarea4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Tarea4.props",
+      "PackagePath": "buildTransitive\\Tarea4.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
